@@ -1,0 +1,47 @@
+.header-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.site-title {
+	flex-grow: 1;
+}
+
+.site-footer {
+	padding: 10px 0 20px 0 !important;
+}
+
+.social-buymeacoffee {
+	display: flex;
+	align-items: center;
+	float: right;
+	margin-top: 10px;
+}
+
+.social-icons {
+	display: flex;
+	gap: 10px;
+	margin-right: 10px;
+}
+
+.social-icons a {
+	color: #333;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+.bmc-button img {
+	height: 35px;
+}
+
+.vote-kamala {
+	display: contents;
+}
+
+.vote-kamala img {
+	height: 50px;
+	margin-left: 100px;
+	padding-top: 3px;
+	display: inline;
+}

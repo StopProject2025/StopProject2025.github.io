@@ -1,0 +1,48 @@
+<footer class="site-footer h-card">
+	<data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+	<div class="wrapper">
+		<!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<ul class="contact-list">
+					<li class="p-name">
+					{%- if site.author -%}
+						{{ site.author | escape }}
+					{%- else -%}
+						<!-- {{ site.title | escape }} -->
+					{%- endif -%}
+					</li>
+					{%- if site.email -%}
+					<li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					{%- endif -%}
+				</ul>
+			</div>
+
+			<div class="social-buymeacoffee">
+				<!-- Social Media Icons -->
+				<div class="social-icons">
+					<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+						<i class="fab fa-twitter"></i>
+					</a>
+					<a href="https://tiktok.com/@{{ site.tiktok_username }}" target="_blank">
+						<i class="fab fa-tiktok"></i>
+					</a>
+					<!-- Add more social links as needed -->
+				</div>
+
+				<!-- Buy Me A Coffee Button -->
+				<div class="bmc-button">
+					<a href="https://www.buymeacoffee.com/john00ivyz" target="_blank">
+						<img
+							src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=&slug=john00ivyz&button_colour=8ace00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
+					</a>
+				</div>
+			</div>
+
+			<div class="footer-col footer-col-3">
+				<!-- <p>{{- site.description | escape -}}</p> -->
+			</div>
+		</div>
+	</div>
+</footer>
