@@ -18,8 +18,8 @@ Project 2025 is not just a theoretical exercise; it's a plan of action. The Heri
 
 By understanding the details of Project 2025, we can better equip ourselves to resist its agenda and to advocate for a more just, equitable, and sustainable future for all Americans.
 
-* [Forward: A Promise To America](.../project_2025/mandate_for_leadership/foreward.md)
-* [Section 1: Taking the Reins of Government](.../project_2025/mandate_for_leadership/section_1.md)
+* [Forward: A Promise To America](../project_2025/mandate_for_leadership/foreward.md)
+* [Section 1: Taking the Reins of Government](../project_2025/mandate_for_leadership/section_1.md)
 	* [Chapter 1: White House Office](../project_2025/mandate_for_leadership/chapter_1.md)
 	* [Chapter 2: Executive Office of the President](../project_2025/mandate_for_leadership/chapter_2.md)
 	* [Chapter 3: Central Personnel Agencies](../project_2025/mandate_for_leadership/chapter_3.md)
