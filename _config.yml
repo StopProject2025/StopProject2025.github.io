@@ -1,0 +1,70 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: The Stennett Report's Project 2025 & Agenda 47 Comprehensive Breakdown
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Trump's allies are planning his second term, and it's terrifying.
+  Discover the details of their agenda, Project 2025, and how it could
+  impact your life. In-depth analysis, chapter breakdowns, and more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stopproject2025.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: stennett4senate
+github_username:
+tiktok_username: thestennettreport
+google_analytics: G-S4L0ECTDY1
+buymeacoffee_username: john00ivyz
+
+# Sources
+project_2025_website: https://www.project2025.org
+project_2025_wiki: https://en.wikipedia.org/wiki/Project_2025
+agenda_47_website: https://www.donaldjtrump.com/platform
+agenda_47_wiki: https://en.wikipedia.org/wiki/Agenda_47
+trumps_cabinet: https://en.wikipedia.org/wiki/Cabinet_of_Donald_Trump
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Theme
+sass:
+  style: compressed
+sass_dir: assets/css
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
