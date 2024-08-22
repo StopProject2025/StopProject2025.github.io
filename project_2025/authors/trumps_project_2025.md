@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project 2025 - Trump's Shadow Government - Unmasking the Deep Ties to Trump and His Inner Circle
+title: Trump's Shadow Government - Unmasking Project 2025's Deep Ties to Trump and His Inner Circle
 ---
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Trump's Shadow Government
+**Title:** Trump's Shadow Government
 
 **This isn't a policy document; it's a Trump administration reunion.** Forget "draining the swamp" – Project 2025 is about *refilling* it with the same people who enabled Trump's most destructive policies. Every single chapter of "Mandate for Leadership," the 900+ page blueprint for a second Trump term, was written by someone with direct ties to Trump, his family, or his inner circle. 
 
